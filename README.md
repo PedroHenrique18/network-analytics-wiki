@@ -19,6 +19,12 @@ Limitar o nível de profundidade da rede para 2 (similar ao que foi demonstrado
 em sala de aula)
 
 As redes escolhidas foram: United States, Canada, Cuba e México. Na tabela a seguir vão ser disponibilizados os links como referência.
+| País            | Link                                      |
+|-----------------|-------------------------------------------|
+| Estados Unidos  | [Link](https://en.wikipedia.org/wiki/United_States) |
+| Canada          | [Link](https://en.wikipedia.org/wiki/canada)        |
+| Cuba            | [Link](https://en.wikipedia.org/wiki/cubaa)         |
+| Mexico          | [Link](https://en.wikipedia.org/wiki/mexico)        |
 
 ## Requisito #02
 
