@@ -18,6 +18,8 @@ considerando a fusão de 4 SEEDs (páginas iniciais)
 Limitar o nível de profundidade da rede para 2 (similar ao que foi demonstrado 
 em sala de aula)
 
+As redes escolhidas foram: United States, Canada, Cuba e México. Na tabela a seguir vão ser disponibilizados os links como referência.
+
 ## Requisito #02
 
 - A partir da rede construída 
