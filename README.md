@@ -6,6 +6,7 @@ Realizar uma análise de rede da Wikipedia, utilizando quatro páginas iniciais 
 
 ## Componentes
  Pedro Henrique Bezerra 
+ 
  Pedro Vitor Bezerra Clemente
 
 ## Requisito #01
