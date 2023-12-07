@@ -1,7 +1,7 @@
 # U2T3
 
-## Pedro Henrique Bezerra 
-## Pedro Vitor Bezerra Clemente
+ Pedro Henrique Bezerra 
+ Pedro Vitor Bezerra Clemente
 
 ## Requisito #01
 
